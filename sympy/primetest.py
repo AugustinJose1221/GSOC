@@ -643,7 +643,7 @@ def aks(n):
     """
     The Agrawal–Kayal–Saxena primality test also known as the AKS algorithm is a test to find whether a number is prime or not.
     It can return the result in polynomial time compared to other brute force techniques.The asymptotic time complexity of 
-    the algorithm to be O`(log(n)^12) (using O` from big O notation)
+    the algorithm is found to be O`(log(n)^12) (using O` from big O notation)
     
     Examples
     ========
